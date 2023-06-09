@@ -1,3 +1,4 @@
+Full Article: https://medium.com/@jinhonghuo01/asl-letters-recognition-with-cnn-network-9eb52d6f5441
 # ASL Recognizer
 This project is an ASL (American Sign Language) recognizer that uses machine learning algorithms to identify hand gestures and translate them into text.
 
@@ -22,9 +23,5 @@ Loss per epoch:
 
 # Credits
 This project was created by Jinhong Huo.
- 
- #   2 6 _ l e t t e r _ A S L _ r e c o g n i z e r 
- 
- #   2 6 _ l e t t e r _ A S L _ r e c o g n i z e r 
  
  
